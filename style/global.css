@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primaryFont: 'Cormorant', serif;
+    --secondaryFont: 'Poppins', sans-serif;
+
+    --primaryColor: #E0950D;
+    --secondaryColor: #171004;
+}
+/* CLASSES UTILITÁRIAS */
+/* TIPOGRAFIAS */
+.font1-M{
+    font-family: var(--primaryFont);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
+.font1-L{
+    font-family: var(--primaryFont);
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+.font2-S{
+    font-family: var(--secondaryFont);
+    font-size: .75rem;
+    font-weight: 400;
+    line-height: 1.25;
+}
+/* ------------------------------------ */
