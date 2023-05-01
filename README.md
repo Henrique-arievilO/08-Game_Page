@@ -1,8 +1,6 @@
 # 08-Game Page: Mortal Kombat 🎮
 
-<div align="right">
-    ![](./assets/scorpion_side.png)
-</div>
+<img src="https://github.com/Henrique-arievilO/08-Game_Page/blob/main/assets/scorpion_side.png?raw=true" align="right"/>
 
 <div align="center">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Henrique-arievilO/08-Game_Page?color=indigo">
